@@ -1,4 +1,1 @@
-echo "www.devopsstation.online" > CNAME
-git add CNAME
-git commit -m "Add custom domain"
-git push origin main
+www.devopsstation.online
